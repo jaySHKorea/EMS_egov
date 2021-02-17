@@ -1,5 +1,9 @@
-# 사내인사관리시스템
-전자정부 프레임워크를 활용한 웹 사내인사관리시스템
+# EMS_egovframework
+웹 사내인사 관리시스템
+
+## ✔️ 주요 기능
+- 직원 정보 등록/수정/삭제
+- 인증 및 인가
 
 ## ✔️ 기술 스택 및 개발 환경
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
