@@ -9,6 +9,8 @@
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
 ![eclipse](https://img.shields.io/badge/eclipse-4.8.0_Photon-yellow)
 ![openJDK](https://img.shields.io/badge/open--jdk-8-orange)
+![tomcat](https://img.shields.io/badge/tomcat-8.5.27-orange)
+![commons-dbcp](https://img.shields.io/badge/commons--dbcp-1.4-orange)
 ![spring](https://img.shields.io/badge/spring-4.3.22-brightgreen)
 ![hibernate](https://img.shields.io/badge/hibernate-3.6.10-blue)
 ![JPA](https://img.shields.io/badge/spring_data_JPA-1.9.4-brightgreen)
