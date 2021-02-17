@@ -3,16 +3,14 @@
 
 ## ✔️ 기술 스택 및 개발 환경
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
-
-https://img.shields.io/badge/eclipse-4.8.0_Photon-yellow
-
-https://img.shields.io/badge/open-jdk-8-orange
-https://img.shields.io/badge/spring-4.3.22-brightgreen
-https://img.shields.io/badge/hibernate-3.6.10-blue
-https://img.shields.io/badge/spring_data_JPA-1.9.4-brightgreen
-https://img.shields.io/badge/oracle-11g_xe-red
-https://img.shields.io/badge/Log4j-2.11.2-yellow
-https://img.shields.io/badge/Junit-4-green
+![eclipse](https://img.shields.io/badge/eclipse-4.8.0_Photon-yellow)
+![jdk](https://img.shields.io/badge/open-jdk-8-orange)
+![spring](https://img.shields.io/badge/spring-4.3.22-brightgreen)
+![hibernate](https://img.shields.io/badge/hibernate-3.6.10-blue)
+![JPA](https://img.shields.io/badge/spring_data_JPA-1.9.4-brightgreen)
+![oracle](https://img.shields.io/badge/oracle-11g_xe-red)
+![log4j](https://img.shields.io/badge/Log4j-2.11.2-yellow)
+![Junit](https://img.shields.io/badge/Junit-4-green)
 
 ## ✔️ 폴더 구조
 ```
