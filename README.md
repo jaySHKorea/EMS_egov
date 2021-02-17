@@ -1,4 +1,4 @@
-# 🙎‍♀️🙎‍♂️ EMS_egovframework
+# 🙎‍♀️ EMS_egovframework
 웹형 사내인사관리시스템
 
 ## ✔️ 주요 기능
