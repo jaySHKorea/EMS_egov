@@ -2,7 +2,7 @@
 전자정부 프레임워크, 스프링을 활용한 웹 사내인사관리시스템
 
 ## ✔️ 기술 스택 및 개발 환경
-https://img.shields.io/badge/eGovFramework/3.9.0/blue
+https://img.shields.io/badge/-eGovFramework-3.9.0-blue
 
 https://img.shields.io/badge/eclipse-4.8.0 Photon-yellow
   https://img.shields.io/badge/<open-jdk>-<8>-<orange>
