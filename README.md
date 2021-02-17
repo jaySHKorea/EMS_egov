@@ -1,6 +1,13 @@
 # 사내인사관리시스템
 전자정부 프레임워크, 스프링을 활용한 웹 사내인사관리시스템
 
+## 기술 스택
+- 전자정부프레임워크 3.9 ( spring4 )
+- maven
+- JPA/hibernate
+- oracle Database 11g xe
+- jsp / html / js
+
 ## 폴더 구조
 ```
 ├─src/main
