@@ -26,7 +26,4 @@ public class EmpSearchDto {
 	public void setDeptNum(String deptNum) {
 		this.deptNum = deptNum;
 	}
-	
-	
-
 }
