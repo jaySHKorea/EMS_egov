@@ -61,7 +61,7 @@ http://www.tooplate.com/view/2082-pure-mix
 			<div class="container">
             	<div class="row">
 					<div class="brand">
-						<a href="${path }/login">포위즈시스템 인사관리</a>
+						<a href="${path }/login">인사관리시스템</a>
 					</div>
 				</div>
 			</div>
