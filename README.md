@@ -4,7 +4,7 @@
 ## ✔️ 주요 기능
 - 직원 정보 조회
 - 직원 정보 등록/수정/삭제
-- 인증 및 인가
+- 인증
 
 ## ✔️ 기술 스택 및 개발 환경
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
