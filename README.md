@@ -51,6 +51,3 @@
 │					index.js
 └─ pom.xml
 ```
-
-## ✔️ 화면 상세
-![img01](./screenshots/0001.jpg)
