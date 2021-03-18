@@ -7,6 +7,7 @@
 - 인증
 
 ## ✔️ [화면 상세](https://github.com/jaySHKorea/EMS_egov/blob/main/screenshots/system.pdf)
+- 제목을 누르면 화면 상세를 볼 수 있습니다.
 
 ## ✔️ 기술 스택 및 개발 환경
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
