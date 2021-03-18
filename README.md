@@ -6,6 +6,8 @@
 - 직원 정보 등록/수정/삭제
 - 인증
 
+## ✔️ [화면 상세](https://github.com/jaySHKorea/EMS_egov/blob/main/screenshots/system.pdf)
+
 ## ✔️ 기술 스택 및 개발 환경
 ![egov](https://img.shields.io/badge/eGovFramework-3.9.0-blue)
 ![eclipse](https://img.shields.io/badge/eclipse-4.8.0_Photon-yellow)
