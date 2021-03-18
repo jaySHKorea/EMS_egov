@@ -53,4 +53,4 @@
 ```
 
 ## ✔️ 화면 상세
-[system.pdf](https://github.com/jaySHKorea/EMS_egov/files/6164758/system.pdf)
+![img01](./screenshots/0001.jpg)
