@@ -36,7 +36,7 @@ public class EmpController {
 	}
 	
 	//수정
-	@PostMapping("/api/v1/update/{id}")
+	@PutMapping("/api/v1/update/{id}")
 	public String update(@PathVariable String id, @ModelAttribute EmpUpdateDto updateDto) {
 		System.out.println(updateDto.getDeptNum()+" "+id);
 		empService.update(id, updateDto);
@@ -44,14 +44,14 @@ public class EmpController {
 	}
 	
 	//삭제 - 단일 데이터
-	@PostMapping("/api/v1/delete/{id}")
+	@DeletetMapping("/api/v1/delete/{id}")
 	public String delete(@PathVariable String id) {
 		empService.delete(id);
 		return "redirect:/index";
 	}
 	
 	//삭제 - 여러개
-	@PostMapping("/api/v1/delete")
+	@DeleteMapping("/api/v1/delete")
 	public String delete(@RequestParam(value="empChkList[]") List<String> ids) {
 		for ( int i = 0 ; i < ids.size() ; i++) {
 			empService.delete(ids.get(i));
